@@ -8,7 +8,7 @@
       "url": ""
     }
   },
-  "natives_url": "https://github.com/finxstal/StarClient/releases/download/1.0/libraries.zip",
+  "libraries_url": "https://github.com/finxstal/StarClient/releases/download/1.0/libraries.zip",
   "assets_url": "https://github.com/finxstal/StarClient/releases/download/1.0/assets.zip",
   "launcher_jar_url": "",
   "launcher_jar_checksum": "",
