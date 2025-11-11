@@ -19,8 +19,8 @@
   },
   "downloads": {
     "client": {
-      "sha1": "",
-      "url": ""
+      "sha1": "null",
+      "url": "https://github.com/finxstal/StarClient/releases/download/1.0/1.8.9-Optifine.jar"
     }
   },
   "java": {
