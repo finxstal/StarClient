@@ -1,0 +1,31 @@
+{
+  "java_preferred_type": "star",
+  "version": "0",
+  "bootVersion": "0",
+  "versionControl": {
+    "windows": {
+      "checksum": "",
+      "url": ""
+    }
+  },
+  "natives_url": "https://www.dropbox.com/scl/fi/lf5emap12lmdvtbnec7ui/natives.zip?rlkey=bo79oudlplesiseejxf99wzrz&st=5rwb387p&dl=1",
+  "assets_url": "https://www.dropbox.com/scl/fi/73s7rn7rrwvaxl8dgfnw3/assets.zip?rlkey=y1yo82l8s4d66errc74ifieh0&st=pjjejf04&dl=1",
+  "launcher_jar_url": "",
+  "launcher_jar_checksum": "",
+  "launcher_path": "launcher.jar",
+  "launcher_args": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dcom.sun.net.ssl.checkRevocation=false -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -XX:+DisableAttachMechanism -Dcom.ibm.tools.attach.enable=no -Djna.encoding=UTF-8 -Dlog4j2.formatMsgNoLookups=true -Dr=1 -Xmn%initRAM%M -Xmx%maxRAM%M -Djava.net.preferIPv4Stack=true %runArgs%",
+  "javaIntegrity": {
+    "rt-x64": "f1de152de016e94e0f9dbdded9be1ea21b6837a8"
+  },
+  "downloads": {
+    "client": {
+      "sha1": "",
+      "url": ""
+    }
+  },
+  "java": {
+    "url": "https://www.dropbox.com/scl/fi/rf7uj644c8sphp8vdzwh2/java.zip?rlkey=6u5b3qgznpd9x1wrrqriyrww5&st=71a7m3ry&dl=1",
+    "sha1": "432bc1d69c0ca9617925ce44cfc9eb014789f2eb",
+    "sha1-x32": "432bc1d69c0ca9617925ce44cfc9eb014789f2eb"
+  }
+}
